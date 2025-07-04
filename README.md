@@ -1,5 +1,5 @@
 # Epd7in3f_6Color
-!!! This is a WIP with serial streaming still a WIP. I hope you can contribute to the development!!!
+!!! This is a WIP with serial streaming still in development. I hope you can contribute to the project!!!
 
 An ESP32 Arduino library for controlling the Waveshare 7.3" Spectra 6-color E-Ink display. This library avoids RAM bottlenecks by using SPIFFS as a persistent framebuffer.
 
